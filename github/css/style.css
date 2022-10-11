@@ -1,0 +1,25 @@
+
+.header{
+   font-size: 20px;
+   margin-top: 60px;
+}
+.header span {
+   display: block;
+}
+.container .col-lg-6 {  
+   /* border: 2px solid red; */
+}
+.form {
+   border: 5px solid #2727d9;
+   padding: 35px 20px;
+}
+.form-header {
+   font-size: 20px;
+   font-weight: 900;
+}
+.form-btn {
+   margin: 10px auto;
+}
+.form input{
+   margin-bottom: 12px;
+}
